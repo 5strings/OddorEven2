@@ -18,7 +18,7 @@ int main(int argc, const char * argv[]) {
     if (num%2 ==0 ) {
         cout<<num<<" is even number \n";
     } else {
-        cout<<num<<" in odd number \n";
+        cout<<num<<" is odd number \n";
     }
     system("pause");
 }
